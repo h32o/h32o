@@ -4,9 +4,9 @@
 Howdy there, welcome to my profile.
 </h3>
 
-I am a Computer Science student at the <a href="https://www.iut-littoral.fr/" target="_blank">Institut universitaire de technologie du Littoral-Côte-d'Opale</a>.<br>
+I am a Computer Science student at the <a href="https://www.iut-littoral.fr/" >Institut universitaire de technologie du Littoral-Côte-d'Opale</a>.<br>
 For a `"Bachelor of Technical Studies"` / `"Bachelor of Technical and Applied Studies"` in computer science. 
-<br><b> <a href="https://en.wikipedia.org/wiki/Bachelor_universitaire_de_technologie" target="_blank">"BUT" *Bachelor universitaire de technologie*</a></b>
+<br><b> <a href="https://en.wikipedia.org/wiki/Bachelor_universitaire_de_technologie">"BUT" *Bachelor universitaire de technologie*</a></b>
 
 
 ---
