@@ -23,6 +23,6 @@ Coming soon.
 
 | Name | Description | Language
 | :--- | :--- | :--- |
-| [**Néonaure**](https://github.com/h32o/Neonaure) | A logic-based game inspired by Sudoku, specifically the `Suguru` variant. | `Python `|
+| [**Néonaure**](https://github.com/h32o/Neonaure) | A logic-based game inspired by Sudoku, specifically the `Suguru` variant. | `Python`|
 
 <br />
